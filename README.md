@@ -2,7 +2,7 @@
 This code is for MANO robotic arm project. https://www.youtube.com/watch?v=ZL-D6KFdTks
 
 # MANO Robotic ARM
-MANO robotic arm is a robotic arm designed for quadriplegic patients for their daily activity. It is controlled by head movement and mouth action include sip, puff and bite. It uses various technology such as sensor fusion ( accelerometer, gyroscope , magnetometer) to map users’ head movement and a combination of sensors to map user’s mouse movement.  
+MANO robotic arm is a robotic arm designed for quadriplegic patients for their daily activity. It is controlled by head movement and mouth action include sip, puff and bite. The robotic arm has a claw that can be open and close to assist user with daily activity such as pick up a cup, push a button to open the door for example. The head control set uses various technology such as sensor fusion ( accelerometer, gyroscope , magnetometer) to map users’ head movement and a combination of sensors to map user’s mouse movement.  
 
 # What I did:
 
